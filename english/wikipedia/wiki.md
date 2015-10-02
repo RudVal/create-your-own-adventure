@@ -1,5 +1,7 @@
 You enter a world called 'Wikipedia.'
 
+One of the greatest knowledge sites ever !
+
 It is mesmerizing.
 
 It is transcendental.
@@ -7,6 +9,8 @@ It is transcendental.
 Information, incalculable information, at your fingertips.
 
 You are blind to all but your exploration of the known and unknown universe.
+
+And you don't have to go to the library.
 
 [Behold!](http://en.wikipedia.org)
 
@@ -21,3 +25,7 @@ Until you get bored and go explore [here](https://www.urbandictionary.com) inste
 Then after you explore the website, you learn a few neat tricks. 
 
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
+
+[Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
+
+[Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
